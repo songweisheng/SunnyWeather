@@ -1,0 +1,23 @@
+/Header Record For PersistentHashMapValueStoragecharsets	deployaccess.bridgecldrdatadnsns
+jaccessjfxrt
+localedatasunec
+nashornsunjce.provider	sunmscapi	sunpkcs11zipfs	javawsjcejfr	jfxswtmanagement.agentjsse	plugin	resourcesrtjavax.injectorg.eclipse.sisu.injectplexus.sec.dispatcherplexus.cipherorg.apache.commons.lang3 org.apache.maven.resolver.spimaven.shared.utils
+commons.iocom.google.guiceaopalliancecom.google.common	jsr305checker.compat.qualerror.prone.annotationsj2objc.annotationsanimal.sniffer.annotationsplexus.classworlds	slf4j.apiorg.apache.maven.resolver!org.apache.maven.resolver.util!org.apache.maven.resolver.implplexus.utilsplexus.interpolationorg.eclipse.sisu.plexus
+cdi.api
+jsr250.apiplexus.component.annotationswagon.provider.api
+wagon.file,)org.apache.maven.resolver.connector.basic,)org.apache.maven.resolver.transport.wagonjunithamcrest.corecommons.jxpathorg.mockitonet.bytebuddynet.bytebuddy.agent	objenesiscommons.cli
+wagon.httpjcl.over.slf4jjansixmlunit.corexmlunit.matcherspowermock.reflect	objenesisslf4j.simplelogback.classiclogback.corejunitstruts2.core
+freemarkerognl	javassistcommons.fileuploadorg.apache.commons.ioasmasm.commons
+xwork.corestruts2.coreasm.tree
+freemarkerognl	javassistcommons.fileupload
+commons.iojavax.servlet.apimysql.connector.javaspring.core
+spring.jclspring.beansspring.contextspring.expression
+spring.web
+spring.aop
+spring.orm	spring.tx	aspectjrtaspectjweaverspring.jdbcstruts2.spring.plugincommons.lang3struts2.convention.pluginorg.jboss.loggingorg.hibernate.orm.corejava.persistence	javassistnet.bytebuddyantlrjava.transaction	jandexcom.fasterxml.classmatejava.activationdom4j$!org.hibernate.commons.annotationscommons.dbcpcommons.poolmysql.connector.javaprotobuf.javaspring.beans
+spring.aopspring.contextspring.expressionspring.boot.starterspring.bootspring.boot.autoconfigurespring.boot.starter.logginglogback.classiclogback.coreorg.apache.logging.slf4jjul.to.slf4jjava.annotationspring.core
+spring.jclorg.yaml.snakeyamlspring.boot.starter.testspring.boot.test!spring.boot.test.autoconfigure	json.path
+json.smartaccessors.smartasm	org.slf4jjakarta.activationmockito.junit.jupiterorg.hamcrestorg.mockito
+jsonassertandroid.jsonspring.testorg.xmlunitspring.boot.starter.jsonspring.boot.starter.webspring.boot.starter.tomcatorg.apache.tomcat.embed.core$!org.apache.tomcat.embed.jasper.el$!org.apache.tomcat.embed.websocket!spring.boot.starter.validationjava.validationorg.hibernate.validatororg.jboss.logging
+spring.webspring.webmvc spring.boot.starter.thymeleafthymeleaf.spring5	thymeleaf
+attoparser	unbescapethymeleaf.extras.java8time

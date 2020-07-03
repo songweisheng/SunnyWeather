@@ -1,0 +1,486 @@
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.96
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Jul 24 2019 13:00:10 UTC
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.96.0
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_131-b11
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\conf\logging.properties
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.password
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.access
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dignore.endorsed.dirs=
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\apache-tomcat-7.0.96\temp
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.23 using APR version 1.7.0.
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.1.1c  28 May 2019)
+十一月 19, 2019 11:19:14 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:19:14 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1531 ms
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.96
+十一月 19, 2019 11:19:14 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:19:14 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:19:14 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 130 ms
+十一月 19, 2019 11:19:21 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+十一月 19, 2019 11:19:21 上午 org.apache.catalina.core.StandardContext startInternal
+严重: One or more listeners failed to start. Full details will be found in the appropriate container log file
+十一月 19, 2019 11:19:21 上午 org.apache.catalina.core.StandardContext startInternal
+严重: Context [/blog] startup failed due to previous errors
+十一月 19, 2019 11:19:24 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager
+十一月 19, 2019 11:19:25 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager has finished in 248 ms
+十一月 19, 2019 11:23:24 上午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+十一月 19, 2019 11:23:24 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:23:24 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:23:24 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十一月 19, 2019 11:23:24 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:23:24 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:23:24 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:23:24 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.96
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Jul 24 2019 13:00:10 UTC
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.96.0
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_131-b11
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\conf\logging.properties
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.password
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.access
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dignore.endorsed.dirs=
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\apache-tomcat-7.0.96\temp
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.23 using APR version 1.7.0.
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.1.1c  28 May 2019)
+十一月 19, 2019 11:23:53 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:23:53 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1120 ms
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.96
+十一月 19, 2019 11:23:53 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:23:53 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:23:53 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 88 ms
+十一月 19, 2019 11:23:59 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+十一月 19, 2019 11:24:00 上午 org.apache.catalina.core.StandardContext startInternal
+严重: One or more listeners failed to start. Full details will be found in the appropriate container log file
+十一月 19, 2019 11:24:00 上午 org.apache.catalina.core.StandardContext startInternal
+严重: Context [/blog] startup failed due to previous errors
+十一月 19, 2019 11:24:03 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager
+十一月 19, 2019 11:24:03 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager has finished in 234 ms
+十一月 19, 2019 11:25:14 上午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+十一月 19, 2019 11:25:14 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:25:14 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:25:14 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十一月 19, 2019 11:25:14 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:25:14 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:25:14 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:25:14 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.96
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Jul 24 2019 13:00:10 UTC
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.96.0
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_131-b11
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\conf\logging.properties
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+十一月 19, 2019 11:25:34 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.password
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.access
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dignore.endorsed.dirs=
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\apache-tomcat-7.0.96\temp
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.23 using APR version 1.7.0.
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.1.1c  28 May 2019)
+十一月 19, 2019 11:25:35 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:25:35 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1062 ms
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.96
+十一月 19, 2019 11:25:35 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:25:35 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:25:35 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 112 ms
+十一月 19, 2019 11:25:39 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+十一月 19, 2019 11:25:39 上午 org.apache.catalina.core.StandardContext startInternal
+严重: One or more listeners failed to start. Full details will be found in the appropriate container log file
+十一月 19, 2019 11:25:39 上午 org.apache.catalina.core.StandardContext startInternal
+严重: Context [/blog] startup failed due to previous errors
+十一月 19, 2019 11:25:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager
+十一月 19, 2019 11:25:45 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager has finished in 289 ms
+十一月 19, 2019 11:33:22 上午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+十一月 19, 2019 11:33:22 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:33:22 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:33:22 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十一月 19, 2019 11:33:22 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:33:22 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:33:22 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:33:22 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.96
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Jul 24 2019 13:00:10 UTC
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.96.0
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_131-b11
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\conf\logging.properties
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.password
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.access
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dignore.endorsed.dirs=
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\apache-tomcat-7.0.96\temp
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.23 using APR version 1.7.0.
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.1.1c  28 May 2019)
+十一月 19, 2019 11:33:44 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:33:44 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1128 ms
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.96
+十一月 19, 2019 11:33:44 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:33:44 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:33:44 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 99 ms
+十一月 19, 2019 11:33:48 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+十一月 19, 2019 11:33:49 上午 org.apache.catalina.core.StandardContext startInternal
+严重: One or more listeners failed to start. Full details will be found in the appropriate container log file
+十一月 19, 2019 11:33:49 上午 org.apache.catalina.core.StandardContext startInternal
+严重: Context [/blog] startup failed due to previous errors
+十一月 19, 2019 11:33:54 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager
+十一月 19, 2019 11:33:54 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager has finished in 274 ms
+十一月 19, 2019 11:34:57 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+十一月 19, 2019 11:34:57 上午 org.apache.catalina.core.StandardContext startInternal
+严重: One or more listeners failed to start. Full details will be found in the appropriate container log file
+十一月 19, 2019 11:34:57 上午 org.apache.catalina.core.StandardContext startInternal
+严重: Context [/blog] startup failed due to previous errors
+十一月 19, 2019 11:35:44 上午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+十一月 19, 2019 11:35:44 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:35:44 上午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:35:44 上午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十一月 19, 2019 11:35:44 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:35:45 上午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:35:45 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:35:45 上午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server version:        Apache Tomcat/7.0.96
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server built:          Jul 24 2019 13:00:10 UTC
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Server number:         7.0.96.0
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Name:               Windows 10
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: OS Version:            10.0
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Architecture:          amd64
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Java Home:             C:\Program Files\Java\jdk1.8.0_131\jre
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Version:           1.8.0_131-b11
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: JVM Vendor:            Oracle Corporation
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_BASE:         C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: CATALINA_HOME:         C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.config.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\conf\logging.properties
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.util.logging.manager=org.apache.juli.ClassLoaderLogManager
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote=
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.port=1099
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.ssl=false
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.password.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.password
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcom.sun.management.jmxremote.access.file=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1\jmxremote.access
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.rmi.server.hostname=127.0.0.1
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djdk.tls.ephemeralDHKeySize=2048
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dignore.endorsed.dirs=
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.base=C:\Users\SWSH\.IntelliJIdea2018.3\system\tomcat\Unnamed_ssh1
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Dcatalina.home=C:\Program Files\apache-tomcat-7.0.96
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.VersionLoggerListener log
+信息: Command line argument: -Djava.io.tmpdir=C:\Program Files\apache-tomcat-7.0.96\temp
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: Loaded APR based Apache Tomcat Native library 1.2.23 using APR version 1.7.0.
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.core.AprLifecycleListener lifecycleEvent
+信息: APR capabilities: IPv6 [true], sendfile [true], accept filters [false], random [true].
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.core.AprLifecycleListener initializeSSL
+信息: OpenSSL successfully initialized (OpenSSL 1.1.1c  28 May 2019)
+十一月 19, 2019 11:36:10 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:36:10 上午 org.apache.coyote.AbstractProtocol init
+信息: Initializing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.Catalina load
+信息: Initialization processed in 1562 ms
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.core.StandardService startInternal
+信息: Starting service Catalina
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.core.StandardEngine startInternal
+信息: Starting Servlet Engine: Apache Tomcat/7.0.96
+十一月 19, 2019 11:36:10 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 11:36:10 上午 org.apache.coyote.AbstractProtocol start
+信息: Starting ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 11:36:10 上午 org.apache.catalina.startup.Catalina start
+信息: Server startup in 98 ms
+十一月 19, 2019 11:36:13 上午 org.apache.catalina.startup.TldConfig execute
+信息: At least one JAR was scanned for TLDs yet contained no TLDs. Enable debug logging for this logger for a complete list of JARs that were scanned but no TLDs were found in them. Skipping unneeded JARs during scanning can improve startup time and JSP compilation time.
+十一月 19, 2019 11:36:16 上午 org.apache.catalina.core.StandardContext startInternal
+严重: One or more listeners failed to start. Full details will be found in the appropriate container log file
+十一月 19, 2019 11:36:16 上午 org.apache.catalina.core.StandardContext startInternal
+严重: Context [/blog] startup failed due to previous errors
+十一月 19, 2019 11:36:20 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deploying web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager
+十一月 19, 2019 11:36:20 上午 org.apache.catalina.startup.HostConfig deployDirectory
+信息: Deployment of web application directory C:\Program Files\apache-tomcat-7.0.96\webapps\manager has finished in 275 ms
+十一月 19, 2019 12:02:15 下午 org.apache.catalina.core.StandardServer await
+信息: A valid shutdown command was received via the shutdown port. Stopping the Server instance.
+十一月 19, 2019 12:02:15 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 12:02:15 下午 org.apache.coyote.AbstractProtocol pause
+信息: Pausing ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 12:02:15 下午 org.apache.catalina.core.StandardService stopInternal
+信息: Stopping service Catalina
+十一月 19, 2019 12:02:15 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 12:02:15 下午 org.apache.coyote.AbstractProtocol stop
+信息: Stopping ProtocolHandler ["ajp-apr-8009"]
+十一月 19, 2019 12:02:15 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["http-apr-8080"]
+十一月 19, 2019 12:02:15 下午 org.apache.coyote.AbstractProtocol destroy
+信息: Destroying ProtocolHandler ["ajp-apr-8009"]

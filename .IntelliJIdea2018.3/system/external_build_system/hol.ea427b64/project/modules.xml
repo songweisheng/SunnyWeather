@@ -1,0 +1,8 @@
+<project>
+  <component name="ExternalModuleListStorage">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/hol.iml" filepath="$PROJECT_DIR$/hol.iml" />
+      <module fileurl="file://$PROJECT_DIR$/struts/struts.iml" filepath="$PROJECT_DIR$/struts/struts.iml" />
+    </modules>
+  </component>
+</project>

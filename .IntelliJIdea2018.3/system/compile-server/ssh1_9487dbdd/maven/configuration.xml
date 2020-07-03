@@ -1,0 +1,148 @@
+<maven-project-configuration>
+  <resource-processing>
+    <maven-module name="blog">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>cn.edu.cap</groupId>
+            <artifactId>blog</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <directory>D:/ProgramFiles/Apache/ssh1/blog</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogU1dTSA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjgNCg0K</manifest>
+        <classpath>struts2-core-2.3.30.jar xwork-core-2.3.30.jar asm-3.3.jar asm-commons-3.3.jar asm-tree-3.3.jar freemarker-2.3.22.jar ognl-3.0.19.jar javassist-3.11.0.GA.jar commons-fileupload-1.3.2.jar commons-io-2.2.jar javax.servlet-api-3.1.0.jar mysql-connector-java-6.0.6.jar spring-core-5.0.8.RELEASE.jar spring-jcl-5.0.8.RELEASE.jar spring-beans-5.0.8.RELEASE.jar spring-context-5.0.8.RELEASE.jar spring-expression-5.0.8.RELEASE.jar spring-web-5.0.8.RELEASE.jar spring-aop-5.0.8.RELEASE.jar spring-orm-5.0.8.RELEASE.jar spring-tx-5.0.8.RELEASE.jar aspectjrt-1.5.3.jar aspectjweaver-1.8.6.jar spring-jdbc-5.0.8.RELEASE.jar struts2-spring-plugin-2.3.30.jar commons-lang3-3.2.jar struts2-convention-plugin-2.3.30.jar hibernate-core-5.3.7.Final.jar jboss-logging-3.3.2.Final.jar javax.persistence-api-2.2.jar javassist-3.23.1-GA.jar byte-buddy-1.8.17.jar antlr-2.7.7.jar jboss-transaction-api_1.2_spec-1.1.1.Final.jar jandex-2.0.5.Final.jar classmate-1.3.4.jar javax.activation-api-1.2.0.jar dom4j-2.1.1.jar hibernate-commons-annotations-5.0.4.Final.jar slf4j-api-1.7.25.jar commons-dbcp-1.4.jar commons-pool-1.5.4.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="blog" />
+          <entry key="build.directory" value="D:\ProgramFiles\Apache\ssh1\blog\target" />
+          <entry key="build.finalName" value="blog" />
+          <entry key="build.outputDirectory" value="D:\ProgramFiles\Apache\ssh1\blog\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="D:\ProgramFiles\Apache\ssh1\blog\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="D:\ProgramFiles\Apache\ssh1\blog\src\main\java" />
+          <entry key="build.testOutputDirectory" value="D:\ProgramFiles\Apache\ssh1\blog\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="D:\ProgramFiles\Apache\ssh1\blog\src\test\java" />
+          <entry key="groupId" value="cn.edu.cap" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="blog Maven Webapp" />
+          <entry key="packaging" value="war" />
+          <entry key="pomFile" value="D:\ProgramFiles\Apache\ssh1\blog\pom.xml" />
+          <entry key="reporting.outputDirectory" value="D:\ProgramFiles\Apache\ssh1\blog\target\site" />
+          <entry key="url" value="http://www.example.com" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_131/jre" />
+          <entry key="java.version" value="1.8" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\Users\SWSH\.m2\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>D:/ProgramFiles/Apache/ssh1/blog/src/main/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+          <resource filtered="false">
+            <directory>D:/ProgramFiles/Apache/ssh1/blog/src/main/rescources</directory>
+            <targetPath>D:/ProgramFiles/Apache/ssh1/blog/target/classes</targetPath>
+            <includes />
+            <excludes>
+              <pattern value="**/*.aj" />
+              <pattern value="**/*.class" />
+              <pattern value="**/*.clj" />
+              <pattern value="**/*.flex" />
+              <pattern value="**/*.form" />
+              <pattern value="**/*.groovy" />
+              <pattern value="**/*.java" />
+              <pattern value="**/*.kt" />
+              <pattern value="**/*.scala" />
+            </excludes>
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>D:/ProgramFiles/Apache/ssh1/blog/src/test/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+    <maven-module name="struts1">
+      <MavenModuleResourceConfiguration>
+        <id>
+          <MavenIdBean>
+            <groupId>cn.edu.cap</groupId>
+            <artifactId>struts1</artifactId>
+            <version>1.0-SNAPSHOT</version>
+          </MavenIdBean>
+        </id>
+        <directory>D:/ProgramFiles/Apache/ssh1/struts1</directory>
+        <manifest>TWFuaWZlc3QtVmVyc2lvbjogMS4wDQpCdWlsdC1CeTogU1dTSA0KQ3JlYXRlZC1CeTogSW50ZWxsaUogSURFQQ0KQnVpbGQtSmRrOiAxLjgNCg0K</manifest>
+        <classpath>struts2-core-2.5.20.jar freemarker-2.3.28.jar ognl-3.1.21.jar javassist-3.20.0-GA.jar log4j-api-2.11.1.jar commons-fileupload-1.4.jar commons-io-2.6.jar commons-lang3-3.8.1.jar</classpath>
+        <delimiters-pattern>\$\{(.+?)\}|@(.+?)@</delimiters-pattern>
+        <model-map>
+          <entry key="artifactId" value="struts1" />
+          <entry key="build.directory" value="D:\ProgramFiles\Apache\ssh1\struts1\target" />
+          <entry key="build.finalName" value="struts1" />
+          <entry key="build.outputDirectory" value="D:\ProgramFiles\Apache\ssh1\struts1\target\classes" />
+          <entry key="build.plugin.maven-ear-plugin.skinnyWars" value="false" />
+          <entry key="build.scriptSourceDirectory" value="D:\ProgramFiles\Apache\ssh1\struts1\src\main\scripts" />
+          <entry key="build.sourceDirectory" value="D:\ProgramFiles\Apache\ssh1\struts1\src\main\java" />
+          <entry key="build.testOutputDirectory" value="D:\ProgramFiles\Apache\ssh1\struts1\target\test-classes" />
+          <entry key="build.testSourceDirectory" value="D:\ProgramFiles\Apache\ssh1\struts1\src\test\java" />
+          <entry key="groupId" value="cn.edu.cap" />
+          <entry key="modelEncoding" value="UTF-8" />
+          <entry key="modelVersion" value="4.0.0" />
+          <entry key="name" value="struts1 Maven Webapp" />
+          <entry key="packaging" value="war" />
+          <entry key="pomFile" value="D:\ProgramFiles\Apache\ssh1\struts1\pom.xml" />
+          <entry key="reporting.outputDirectory" value="D:\ProgramFiles\Apache\ssh1\struts1\target\site" />
+          <entry key="url" value="http://www.example.com" />
+          <entry key="version" value="1.0-SNAPSHOT" />
+        </model-map>
+        <properties>
+          <entry key="java.home" value="C:/Program Files/Java/jdk1.8.0_131/jre" />
+          <entry key="java.version" value="1.8" />
+          <entry key="maven.compiler.source" value="1.7" />
+          <entry key="maven.compiler.target" value="1.7" />
+          <entry key="project.build.sourceEncoding" value="UTF-8" />
+          <entry key="settings.localRepository" value="C:\Users\SWSH\.m2\repository" />
+        </properties>
+        <filtering-excluded-extensions />
+        <option name="escapeString" />
+        <option name="escapeWindowsPaths" value="true" />
+        <option name="overwrite" value="false" />
+        <option name="outputDirectory" />
+        <option name="testOutputDirectory" />
+        <resources>
+          <resource filtered="false">
+            <directory>D:/ProgramFiles/Apache/ssh1/struts1/src/main/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </resources>
+        <test-resources>
+          <resource filtered="false">
+            <directory>D:/ProgramFiles/Apache/ssh1/struts1/src/test/resources</directory>
+            <includes />
+            <excludes />
+          </resource>
+        </test-resources>
+      </MavenModuleResourceConfiguration>
+    </maven-module>
+  </resource-processing>
+  <web-artifact-cfg />
+  <ejb-client-artifact-cfg />
+</maven-project-configuration>

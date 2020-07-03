@@ -1,0 +1,45 @@
+<application>
+  <component name="DimensionService">
+    <location key="WELCOME_SCREEN.0.0.1920.1080@120dpi" x="960" y="515" />
+    <location key="SettingsEditor.0.0.1920.1080@120dpi" x="865" y="89" />
+    <location key="run.anything.popup.0.0.1920.1080@120dpi" x="531" y="228" />
+    <location key="com.intellij.ide.util.TipDialog.0.0.1920.1080@120dpi" x="346" y="321" />
+    <location key="deploy.picker.dialog.0.0.1920.1080@120dpi" x="499" y="230" />
+    <location key="IDE.errors.dialog.0.0.1920.1080@120dpi" x="436" y="181" />
+    <location key="chooseDestDirectoryDialog.0.0.1920.1080@120dpi" x="706" y="239" />
+    <location key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog.0.0.1920.1080@120dpi" x="624" y="208" />
+    <location key="#Auto_Import.0.0.1920.1080@120dpi" x="674" y="168" />
+    <location key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog.0.0.1920.1080@120dpi" x="461" y="420" />
+    <location key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog.0.0.1920.1080@120dpi" x="624" y="198" />
+    <location key="FileChooserDialogImpl.0.0.1920.1080@120dpi" x="1028" y="296" />
+    <location key="AndroidCreateResourceDirectoryDialog.0.0.1920.1080@120dpi" x="436" y="208" />
+    <location key="AndroidCreateXmlResourceDialog.0.0.1920.1080@120dpi" x="705" y="355" />
+    <location key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" x="403" y="94" />
+    <location key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" x="606" y="413" />
+    <location key="AndroidCreateResourceFileDialog.0.0.1920.1080@120dpi" x="461" y="251" />
+    <location key="search.everywhere.popup.0.0.1920.1080@120dpi" x="468" y="183" />
+    <location key="#com.intellij.tools.ToolEditorDialog.0.0.1920.1080@120dpi" x="591" y="379" />
+    <location key="com.intellij.tools.ToolSelectDialog.dimensionServiceKey.0.0.1920.1080@120dpi" x="756" y="311" />
+    <location key="#PSD.0.0.1920.1080@120dpi" x="453" y="246" />
+    <location key="CommitChangelistDialog2.0.0.1920.1080@120dpi" x="510" y="0" />
+    <location key="#listview2.0.0.1920.1080@120dpi" x="659" y="73" />
+    <location key="#listview22.0.0.1920.1080@120dpi" x="659" y="89" />
+    <location key="#MainActivity.0.0.1920.1080@120dpi" x="708" y="88" />
+    <location key="#Inspections.0.0.1920.1080@120dpi" x="501" y="113" />
+    <location key="GitCloneDialog.0.0.1920.1080@120dpi" x="624" y="414" />
+    <location key="com.intellij.testIntegration.createTest.CreateTestDialog.0.0.1920.1080@120dpi" x="675" y="189" />
+    <location key="refactoring.ChangeSignatureDialog.0.0.1920.1080@120dpi" x="586" y="51" />
+    <location key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog.0.0.1920.1080@120dpi" x="624" y="198" />
+    <location key="NewModule_or_Project.wizard.0.0.1920.1080@120dpi" x="645" y="318" />
+    <size key="GridCell.Tab.0.left.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.center.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.right.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="GridCell.Tab.0.bottom.0.0.1920.1080@120dpi" width="0" height="0" />
+    <size key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes.0.0.1920.1080@120dpi" width="689" height="369" />
+    <size key="search.everywhere.popup.0.0.1920.1080@120dpi" width="840" height="849" />
+    <size key="FileChooserDialogImpl.0.0.1920.1080@120dpi" width="548" height="605" />
+    <size key="#com.intellij.execution.impl.EditConfigurationsDialog.0.0.1920.1080@120dpi" width="943" height="864" />
+    <size key="#PSD.0.0.1920.1080@120dpi" width="964" height="768" />
+    <size key="SettingsEditor.0.0.1920.1080@120dpi" width="1055" height="890" />
+  </component>
+</application>

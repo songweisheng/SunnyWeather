@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="E:\QQ下载\新建文件夹\listview_01\.idea\encodings.xml" timestamp="1583757634631" />
+    <file path="E:\QQ下载\新建文件夹\listview_01\.idea\gradle.xml" timestamp="1583757661621" />
+    <file path="E:\QQ下载\新建文件夹\listview_01\.idea\misc.xml" timestamp="1583757634332" />
+    <file path="E:\QQ下载\新建文件夹\listview_01\.idea\modules.xml" timestamp="1583757634679" />
+    <file path="E:\QQ下载\新建文件夹\listview_01\.idea\runConfigurations.xml" timestamp="1583757634751" />
+    <file path="E:\QQ下载\新建文件夹\listview_01\.idea\vcs.xml" timestamp="1583757661570" />
+    <file path="E:\QQ下载\新建文件夹\listview_01\.idea\workspace.xml" timestamp="1583901709531" />
+    <file path="E:\QQ下载\新建文件夹\listview_01\listview_01.iml" timestamp="1583757634226" />
+  </project-files>
+</conversion>
+

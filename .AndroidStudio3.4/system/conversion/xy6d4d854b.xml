@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-native-run-configurations" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+    <converter id="junit-to-android-junit-configurations" />
+    <converter id="kotlin-non-jvm-source-roots" />
+    <converter id="remove-java-aware-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\SWSH\xy\.idea\codeStyles\Project.xml" timestamp="1583984595235" />
+    <file path="C:\Users\SWSH\xy\.idea\encodings.xml" timestamp="1585397575603" />
+    <file path="C:\Users\SWSH\xy\.idea\gradle.xml" timestamp="1583984599409" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_activity_activity_1_0_0_aar.xml" timestamp="1583984599428" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_annotation_annotation_1_1_0_jar.xml" timestamp="1583984599442" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_appcompat_appcompat_1_1_0_aar.xml" timestamp="1583984599452" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_appcompat_appcompat_resources_1_1_0_aar.xml" timestamp="1583984599461" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_arch_core_core_common_2_1_0_jar.xml" timestamp="1583984599469" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_arch_core_core_runtime_2_0_0_aar.xml" timestamp="1583984599476" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_collection_collection_1_1_0_jar.xml" timestamp="1583984599486" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_1_1_3_aar.xml" timestamp="1583984599494" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_constraintlayout_constraintlayout_solver_1_1_3_jar.xml" timestamp="1583984599502" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_core_core_1_1_0_aar.xml" timestamp="1583984599510" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_cursoradapter_cursoradapter_1_0_0_aar.xml" timestamp="1583984599518" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_customview_customview_1_0_0_aar.xml" timestamp="1583984599526" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_drawerlayout_drawerlayout_1_0_0_aar.xml" timestamp="1583984599546" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_fragment_fragment_1_1_0_aar.xml" timestamp="1583984599559" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_interpolator_interpolator_1_0_0_aar.xml" timestamp="1583984599568" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_common_2_1_0_jar.xml" timestamp="1583984599577" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_2_0_0_aar.xml" timestamp="1583984599590" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_livedata_core_2_0_0_aar.xml" timestamp="1583984599597" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_runtime_2_1_0_aar.xml" timestamp="1583984599604" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_lifecycle_lifecycle_viewmodel_2_1_0_aar.xml" timestamp="1583984599614" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_loader_loader_1_0_0_aar.xml" timestamp="1583984599622" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_recyclerview_recyclerview_1_1_0_aar.xml" timestamp="1583984636867" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_savedstate_savedstate_1_0_0_aar.xml" timestamp="1583984599630" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_test_core_1_2_0_aar.xml" timestamp="1583984599639" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_test_espresso_espresso_core_3_2_0_aar.xml" timestamp="1583984599646" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_test_espresso_espresso_idling_resource_3_2_0_aar.xml" timestamp="1583984599654" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_test_ext_junit_1_1_1_aar.xml" timestamp="1583984599661" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_test_monitor_1_2_0_aar.xml" timestamp="1583984599667" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_test_runner_1_2_0_aar.xml" timestamp="1583984599675" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_1_1_0_aar.xml" timestamp="1583984599682" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_vectordrawable_vectordrawable_animated_1_1_0_aar.xml" timestamp="1583984599688" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_versionedparcelable_versionedparcelable_1_1_0_aar.xml" timestamp="1583984599696" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__androidx_viewpager_viewpager_1_0_0_aar.xml" timestamp="1583984599704" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__com_google_code_findbugs_jsr305_2_0_1_jar.xml" timestamp="1583984599712" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__com_squareup_javawriter_2_1_1_jar.xml" timestamp="1583984599720" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__javax_inject_javax_inject_1_jar.xml" timestamp="1583984599732" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__junit_junit_4_12_jar.xml" timestamp="1583984599739" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__net_sf_kxml_kxml2_2_3_0_jar.xml" timestamp="1583984599747" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__org_hamcrest_hamcrest_core_1_3_jar.xml" timestamp="1583984599756" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__org_hamcrest_hamcrest_integration_1_3_jar.xml" timestamp="1583984599764" />
+    <file path="C:\Users\SWSH\xy\.idea\libraries\Gradle__org_hamcrest_hamcrest_library_1_3_jar.xml" timestamp="1583984599772" />
+    <file path="C:\Users\SWSH\xy\.idea\misc.xml" timestamp="1583984610518" />
+    <file path="C:\Users\SWSH\xy\.idea\modules.xml" timestamp="1583984599393" />
+    <file path="C:\Users\SWSH\xy\.idea\runConfigurations.xml" timestamp="1583984595244" />
+    <file path="C:\Users\SWSH\xy\.idea\workspace.xml" timestamp="1585397575570" />
+    <file path="C:\Users\SWSH\xy\app\app.iml" timestamp="1585397575563" />
+  </project-files>
+</conversion>
+
